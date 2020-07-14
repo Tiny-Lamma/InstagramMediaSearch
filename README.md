@@ -4,3 +4,4 @@ Search Instagram data folder for jpg and mp4 files, output is html which allows 
 Output:
 - images.html
 - videos.html
+- messages.html
