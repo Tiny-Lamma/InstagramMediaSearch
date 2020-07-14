@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 import os
 import sqlite3
+
 from bplist import bplist
 from sqlite3 import Error
 
